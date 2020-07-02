@@ -12,7 +12,10 @@ By using the number of reviews as an approximation for the demand of Airbnb acco
 ## Data
 The data for Berlin was gratefully retrieved from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). For this analysis, the datasets on listings and reviews were utilized.
 
-## Methodology
-As can be seen in the bar chart below, most reviews are written on a Sunday.
+As already stated, demand for Airbnb acommodations is modelled through the number of written reviews. Users usually have 14 days for writing and submitting a review. According to the company, every second booking receives a review, thus making reviews a good indicator for actual bookings. As can be seen in the bar chart below, most reviews are written on a Sunday. Due to the uneven distribution weekly data is created for this analysis.
 
 ![Weekday of Submitted Reviews](/images/Verteilung_Reviews_auf_Tage.png)
+
+In order to exclude recent developments caused by the COVID-19 pandemic which would bias the estimates, the data only includes observations up until February 2020.
+
+ 
