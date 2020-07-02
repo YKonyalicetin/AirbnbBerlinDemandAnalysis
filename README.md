@@ -16,6 +16,8 @@ As already stated, demand for Airbnb acommodations is modelled through the numbe
 
 ![Weekday of Submitted Reviews](/images/Verteilung_Reviews_auf_Tage.png)
 
-In order to exclude recent developments caused by the COVID-19 pandemic which would bias the estimates, the data only includes observations up until February 2020.
+In order to exclude recent developments caused by the COVID-19 pandemic which would bias the estimates, the data only includes observations up until February 2020. Data is split into a trainings and a testdataset. The ratio is 85:15, constituting a threshold in the early months of 2019. This can eminently be seen in the following plot which depicts the split.
+
+![Weekday of Submitted Reviews](/images/Einteilung_Training_Test.png)
 
  
