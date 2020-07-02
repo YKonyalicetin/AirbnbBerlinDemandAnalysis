@@ -10,5 +10,9 @@ It can be noted that bookings, approximated by the sum of reviews on acommodatio
 By using the number of reviews as an approximation for the demand of Airbnb accommodations, this analysis gives important insights into market developments.
 
 ## Data
-The data was gratefully retrieved from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+The data for Berlin was gratefully retrieved from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). For this analysis, the datasets on listings and reviews were utilized.
 
+## Methodology
+As can be seen in the bar chart below, most reviews are written on a Sunday.
+
+![Weekday of Submitted Reviews](/images/Verteilung_Reviews_auf_Tage.png)
