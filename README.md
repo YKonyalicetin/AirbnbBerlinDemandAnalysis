@@ -27,4 +27,9 @@ Various techniques are employed but Holt-Winters additive and multiplicative met
 ![Forecasts](/images/Holt_Winters_prognose.png)
 
 Outcomes of further employed estimation techniques can be viewed in the respective Jupyter notebook.
- 
+
+## Analysis by Berlin Boroughs
+
+Another interesting exercise is analyzing the data by borough. The ten most booked boroughs are visible in the graph below.
+
+![Top Ten Boroughs](/images/Top_10.png)
