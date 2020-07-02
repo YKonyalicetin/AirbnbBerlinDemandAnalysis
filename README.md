@@ -22,8 +22,10 @@ In order to exclude recent developments caused by the COVID-19 pandemic which wo
 
 ## Estimation Techniques
 
-Various techniques are employed but Holt-Winters additive and multiplicative methods appear to predict the data somewhat realistically. Predicted values for both methods can be seen in the graph below.
+Various techniques are employed but Holt-Winters additive and multiplicative methods appear to predict the data somewhat realistically. Predicted values for both methods can be seen in the graphs below.
 
 ![Forecasts](/images/Anpassung_dreifache_exponetielle_Glättung.png)
+
+![Forecasts](/images/Holt_Winters_prognose.png)
 
  
