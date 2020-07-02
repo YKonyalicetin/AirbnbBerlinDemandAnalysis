@@ -33,3 +33,6 @@ Outcomes of further employed estimation techniques can be viewed in the respecti
 Another interesting exercise is analyzing the data by borough. The ten most booked boroughs are visible in the graph below.
 
 ![Top Ten Boroughs](/images/Top_10.png)
+
+Unsurprisingly, Mitte, Kreuzberg, Friedrichshain and Prenzlauer Berg can be found in the top ten most visited borough of Berlin. However, it is noteworthy that Prenzlauer Berg even attracts more Airbnb users than the popular borough of Mitte, eventhough the difference between the two boroughs is minimal.
+
