@@ -18,6 +18,12 @@ As already stated, demand for Airbnb acommodations is modelled through the numbe
 
 In order to exclude recent developments caused by the COVID-19 pandemic which would bias the estimates, the data only includes observations up until February 2020. Data is split into a trainings and test dataset. The ratio is 85:15, constituting a threshold in the early months of 2019. This can be seen in the following plot which depicts the split.
 
-![Weekday of Submitted Reviews](/images/Einteilung_Training_Test.png)
+![Split of Test and Training Data](/images/Einteilung_Training_Test.png)
+
+## Estimation Techniques
+
+Various techniques are employed but Holt-Winters additive and multiplicative methods appear to predict the data somewhat realistically. Predicted values for both methods can be seen in the graph below.
+
+![Forecasts](/images/Anpassung_dreifache_exponetielle_Glättung.png)
 
  
