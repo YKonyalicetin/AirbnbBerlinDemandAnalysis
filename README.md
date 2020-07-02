@@ -5,3 +5,4 @@ Airbnb gained a lot of popularity in the past decade and is a widely used platfo
 
 ![Sum of Reviews on Airbnb Acommodations in Berlin over Time](/images/vollständige_Zeitreihe.png)
 
+It can be seen that bookings, approximated by the sum of reviews on acommodations, follow a clear upward trend (if we ignore COVID-19 pandemic's drastic impact on reviews in February and March 2020). 
