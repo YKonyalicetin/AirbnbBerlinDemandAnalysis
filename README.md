@@ -7,6 +7,8 @@ Airbnb gained a lot of popularity in the past decade and is a widely used platfo
 
 It can be noted that bookings, approximated by the sum of reviews on acommodations, follow a clear upward trend (if we ignore COVID-19 pandemic's drastic impact on reviews in February and March 2020). Furthermore, a seasonal pattern is evident when observing the peaks at turns of years and low points around the Christmas period.
 
-By using the number of reviews as an approximation for the demand of Airbnb accommodations, this analysis gives insights into market developments. 
+By using the number of reviews as an approximation for the demand of Airbnb accommodations, this analysis gives important insights into market developments.
 
+## Data
+The data was gratefully retrieved from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
